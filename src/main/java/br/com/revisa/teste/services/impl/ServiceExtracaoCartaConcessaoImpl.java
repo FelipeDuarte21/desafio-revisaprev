@@ -8,9 +8,9 @@ package br.com.revisa.teste.services.impl;
 import java.time.ZoneId;
 import java.util.Date;
 
-import br.com.revisa.teste.controle.pdf.CartaConcessao;
-import br.com.revisa.teste.controle.pdf.PDFUtil;
 import br.com.revisa.teste.services.ServiceExtracaoCartaConcessao;
+import br.com.revisa.teste.util.pdf.CartaConcessao;
+import br.com.revisa.teste.util.pdf.PDFUtil;
 
 /**
  *

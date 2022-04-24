@@ -1,4 +1,4 @@
-package br.com.revisa.teste.controle.pdf;
+package br.com.revisa.teste.util.pdf;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
